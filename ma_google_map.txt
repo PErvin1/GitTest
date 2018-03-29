@@ -1,0 +1,3 @@
+https://maps.google.hu/maps?q=40.412344,-3.70255&output=embed
+------
+c:\omunka\financial\raktar\versions\v_3_03_2_thely_betolto\script\grant\grant_gener.sql
